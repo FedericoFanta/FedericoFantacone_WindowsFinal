@@ -1,0 +1,11 @@
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\bin\Debug\FedericoFantacone_WindowsFinal.exe.config
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\bin\Debug\FedericoFantacone_WindowsFinal.exe
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\bin\Debug\FedericoFantacone_WindowsFinal.pdb
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.csproj.AssemblyReference.cache
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.Form1.resources
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.Properties.Resources.resources
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.csproj.GenerateResource.cache
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.csproj.CoreCompileInputs.cache
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.exe
+C:\Users\Federico PC\Desktop\C#\Bootcamp\FedericoFantacone_WindowsFinal\FedericoFantacone_WindowsFinal\obj\Debug\FedericoFantacone_WindowsFinal.pdb
